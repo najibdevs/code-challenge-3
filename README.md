@@ -5,7 +5,7 @@
 #### By Najib Iman
 
 ## Live Demo
-[Live Demo Link](https://najibdevs.github.io/WK3-Code-Challenge/)
+[Live Demo Link](https://code-challenge-3-coral.vercel.app//)
 
 
 ## Description
